@@ -1,0 +1,6 @@
+flask
+colorama
+beautifulsoup4
+pyfiglet
+gevent
+waitress
