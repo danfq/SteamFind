@@ -68,6 +68,8 @@ There are a few flags you can set when running `SteamFind`:
 
 ## API
 
-In the near future, I will also release an API, so that anyone can access the functionality of `SteamFind` with a simple `GET Request`.
+To access `SteamFind`'s functionality via an API Endpoint, you can use the following URL:
 
-I will add a link to it here, once it is deployed.
+`https://steamfindapi.herokuapp.com/steamApp?appID=<appID>`
+
+**Example**: [God of War](https://steamfindapi.herokuapp.com/steamApp?appID=1593500)

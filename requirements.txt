@@ -2,5 +2,4 @@ flask
 colorama
 beautifulsoup4
 pyfiglet
-gevent
-waitress
+flask_cors
